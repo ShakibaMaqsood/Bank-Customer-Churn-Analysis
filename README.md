@@ -19,9 +19,9 @@ The analysis includes:
 ## 📂 Files in This Repository
 
 - **`customer_churn_prediction.py`** — Main script for data cleaning, modeling, and evaluation  
-- **`images/`** — Folder containing feature importance visualization  
-  - `feature_importance.png`  
-- **`README.md`** — Project documentation  
+- **`Churn_Modelling.csv`** — Dataset used for customer churn analysis
+- **`feature_importance.png`** — Feature importance visualization (uploaded directly)
+- **`README.md`** — Project documentation
 
 ## 📘 Steps Performed in the Project
 
